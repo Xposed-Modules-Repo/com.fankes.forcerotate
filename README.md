@@ -18,6 +18,27 @@
 
 - 模块已对关键系统应用设置了黑名单，勾选也不会生效
 
+## 作用域贡献
+
+- Fork 项目后 [前往这里](https://github.com/Xposed-Modules-Repo/com.fankes.forcerotate/blob/main/SCOPE) 贡献作用域。
+
+> 目前已适配
+
+- QQ(标准版)
+- TIM
+- 微信
+- 哔哩哔哩
+- 哔哩哔哩 HD
+- 酷安
+- 网易云音乐
+- 讯飞输入法
+- 支付宝
+- TapTap
+- 百度输入法
+- 抖音
+- 京东
+- 淘宝
+
 ## 适配说明
 
 - 只支持 LSPosed，请不要在其它管理器上激活模块，否则会不生效
