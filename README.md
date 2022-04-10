@@ -22,7 +22,7 @@
 
 - Fork 项目后 [前往这里](https://github.com/Xposed-Modules-Repo/com.fankes.forcerotate/blob/main/SCOPE) 贡献作用域。
 
-> 目前已适配
+> 目前已添加
 
 - QQ(标准版)
 - TIM
