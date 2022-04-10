@@ -24,6 +24,8 @@
 
 - 模块只会对自带强制竖屏、强制横屏设置的 APP 生效，不会破坏自适应和跟随系统自动旋转屏幕的 APP
 
+- 某些国产定制的 Pad 系统可与系统的 `全局横屏` 和 `平行视界` 配合使用更加
+
 ## 贡献
 
 本模块使用 [YukiHookAPI](https://github.com/fankes/YukiHookAPI) 构建
