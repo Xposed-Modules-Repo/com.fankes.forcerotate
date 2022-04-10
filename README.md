@@ -22,6 +22,8 @@
 
 - Fork 项目后 [前往这里](https://github.com/Xposed-Modules-Repo/com.fankes.forcerotate/blob/main/SCOPE) 贡献作用域。
 
+- 部分 APP 旋转屏幕后会出现严重 BUG，此类 APP 不建议加入作用域，例如乐色 `*东`、`*宝`。
+
 > 目前已添加
 
 - QQ(标准版)
@@ -36,8 +38,6 @@
 - TapTap
 - 百度输入法
 - 抖音
-- 京东
-- 淘宝
 
 ## 适配说明
 
