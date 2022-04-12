@@ -51,6 +51,11 @@
 
 - 在手机上也可以使用，可以让横屏显示的 APP 强制竖屏，但是可能会破坏感应旋转，不建议使用
 
+## 捐赠支持
+
+- 工作不易，无意外情况此项目将继续维护下去，提供更多可能，欢迎打赏。<br/><br/>
+  <img src="https://github.com/fankes/YuKiHookAPI/blob/master/img-src/wechat_code.jpg" width = "200" height = "200"/>
+
 ## 贡献
 
 本模块使用 [YukiHookAPI](https://github.com/fankes/YukiHookAPI) 构建
